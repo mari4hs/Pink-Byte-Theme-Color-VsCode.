@@ -1,0 +1,26 @@
+{
+  "name": "pink-byte",
+  "displayName": "pink-byte",
+  "description": "Tons de rosa para programar com estilo sem perder a delicadeza!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "img/PinkByteICON.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pink Byte",
+        "uiTheme": "vs",
+        "path": "./themes/PinkByte-color-theme.json"
+      }
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mari4hs/pink-byte.git"
+    }
+  }
+}
