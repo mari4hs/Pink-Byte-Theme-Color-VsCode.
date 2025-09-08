@@ -21,40 +21,40 @@
 
 ## Screenshots
 
-
-[Pink Byte Theme - Example 1](img/Inicio.png)
- *This example shows how the theme looks on the initial screen when VS Code is opened.*
-
----
-
-[Pink Byte Theme - Example 2](img/ExemploJs.png)
- *This example shows how the theme looks applied to JavaScript.*
+![Pink Byte Theme - Example 1](https://raw.githubusercontent.com/mari4hs/pink-byte/main/images/Inicio.png)  
+*Example showing the theme applied on the initial screen when VS Code opens.*
 
 ---
 
-[Pink Byte Theme - Example 3](img/ExemploTs.png)
-  *This example shows how the theme looks applied to TypeScript.*
+![Pink Byte Theme - Example 2](https://raw.githubusercontent.com/mari4hs/pink-byte/main/images/ExemploJs.png)  
+*Example showing the theme applied to JavaScript.*
 
 ---
 
-[Pink Byte Theme - Example 4](img/ExemploPy.png)
-   *This example shows how the theme looks applied to Python.*
+![Pink Byte Theme - Example 3](https://raw.githubusercontent.com/mari4hs/pink-byte/main/images/ExemploTs.png)  
+*Example showing the theme applied to TypeScript.*
 
 ---
 
-[Pink Byte Theme - Example 5](img/ExemploHtml.png)
-    *This example shows how the theme looks applied to HTML.*
+![Pink Byte Theme - Example 4](https://raw.githubusercontent.com/mari4hs/pink-byte/main/images/ExemploPy.png)  
+*Example showing the theme applied to Python.*
 
 ---
 
-[Pink Byte Theme - Example 6](img/ExemploCss.png)
-    *This example shows how the theme looks applied to CSS.*
+![Pink Byte Theme - Example 5](https://raw.githubusercontent.com/mari4hs/pink-byte/main/images/ExemploHtml.png)  
+*Example showing the theme applied to HTML.*
 
-   ---
+---
 
-[Pink Byte Theme - Example 7](img/ExemploAbaExtensões.png)
-    *This example shows the theme applied to the Extensions tab (LIVE SERVER used for demonstration!).*
+![Pink Byte Theme - Example 6](https://raw.githubusercontent.com/mari4hs/pink-byte/main/images/ExemploCss.png)  
+*Example showing the theme applied to CSS.*
 
+---
+
+![Pink Byte Theme - Example 7](https://raw.githubusercontent.com/mari4hs/pink-byte/main/images/ExemploAbaExtensoes.png)  
+*Example showing the theme applied in the Extensions tab (LIVE SERVER used for demonstration!).*
+
+---
 ---
 
 ## Easy Installation, follow the steps:
