@@ -21,25 +21,25 @@
 
 ## Screenshots
 
-![Pink Byte Theme - Start](images/Inicio.png)  
+![Pink Byte Theme - Start](img/Inicio.png)  
 *This example shows how the theme looks on the VSCode start screen.*
 
-![Pink Byte Theme - JS](images/ExemploJs.png)  
+![Pink Byte Theme - JS](img/ExemploJs.png)  
 *This example shows how the theme looks applied to JavaScript.*
 
-![Pink Byte Theme - TS](images/ExemploTs.png)  
+![Pink Byte Theme - TS](img/ExemploTs.png)  
 *This example shows how the theme looks applied to TypeScript.*
 
-![Pink Byte Theme - Python](images/ExemploPy.png)  
+![Pink Byte Theme - Python](img/ExemploPy.png)  
 *This example shows how the theme looks applied to Python.*
 
-![Pink Byte Theme - HTML](images/ExemploHtml.png)  
+![Pink Byte Theme - HTML](img/ExemploHtml.png)  
 *This example shows how the theme looks applied to HTML.*
 
-![Pink Byte Theme - CSS](images/ExemploCss.png)  
+![Pink Byte Theme - CSS](img/ExemploCss.png)  
 *This example shows how the theme looks applied to CSS.*
 
-![Pink Byte Theme - Extensions](images/ExemploAbaExtensoes.png)  
+![Pink Byte Theme - Extensions](img/ExemploAbaExtensões.png)  
 *This example shows how the theme looks in the Extensions tab.*
 
 ---

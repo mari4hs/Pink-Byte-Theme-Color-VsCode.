@@ -10,7 +10,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "images/pinkbyteIcon.png",
+  "icon": "img/icon.png",
   "contributes": {
     "themes": [
       {

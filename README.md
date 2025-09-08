@@ -21,25 +21,25 @@
 
 ## Capturas de tela
 
-![Pink Byte Theme - Inicio](images/Inicio.png) 
+![Pink Byte Theme - Inicio](img/Inicio.png) 
 *Esse explo mostra como o tema fica aplicado na tela de inicio do VScode*
 
-![Pink Byte Theme - JS](images/ExemploJs.png)
+![Pink Byte Theme - JS](img/ExemploJs.png)
 *Esse exemplo mostra como o tema fica aplicado ao JavaScript.*
 
-![Pink Byte Theme - TS](images/ExemploTs.png)
+![Pink Byte Theme - TS](img/ExemploTs.png)
 *Esse exemplo mostra como o tema fica aplicado ao TypeScript.*
 
-![Pink Byte Theme - Python](images/ExemploPy.png)
+![Pink Byte Theme - Python](img/ExemploPy.png)
 *Esse exemplo mostra como o tema fica aplicado ao Python.*
 
-![Pink Byte Theme - HTML](images/ExemploHtml.png)
+![Pink Byte Theme - HTML](img/ExemploHtml.png)
 *Esse exemplo mostra como o tema fica aplicado ao HTML.*
 
-![Pink Byte Theme - CSS](images/ExemploCss.png)
+![Pink Byte Theme - CSS](img/ExemploCss.png)
 *Esse exemplo mostra como o tema fica aplicado ao CSS.*
 
-![Pink Byte Theme - Extensões](images/ExemploAbaExtensoes.png)
+![Pink Byte Theme - Extensões](img/ExemploAbaExtensões.png)
 *Esse exemplo mostra como o tema fica aplicado na aba de Extensões.*
 
 ---
