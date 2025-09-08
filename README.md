@@ -1,6 +1,6 @@
-# Pink Byte
+# Pink Byte💖
 
-> [English version](README_EN.md)
+// Versão 0.3.2: Esta atualização traz pequenas melhorias e ajustes no Pink Byte, incluindo melhorias nas paletas de cores para algumas linguagens e uma experiência de leitura ainda mais suave. Cada detalhe foi pensado para manter seu código organizado, legível e cheio de delicadeza!// 
 
 
 **Pink Byte** é um tema de cores suaves e delicadas para Visual Studio Code, com inspirações em tons de rosa, lilás e lavanda, feito para proporcionar uma experiência de codificação agradável, fofa e relaxante! A ideia principal é que ele não deixe a vista cansada após algumas horas codando e ainda sim, ideal para quem gosta de um visual claro e "soft", mas com uma boa legibilidade, contraste e destaque para diferentes elementos do seu código!!💖
@@ -9,44 +9,20 @@
 
 ## Características
 
+--- 💡Cada linguagem tem uma paleta de cores exclusiva, cuidadosamente criada para destacar strings, funções, comentários, tipos, números e palavras-chave, tornando o código mais organizado e fácil de ler. ---
+
 - Paleta de cores baseada em tons de rosas claros, lilás e alguns outros tons pastéis delicados;
-- Destaque diferenciado para comentários, strings, números, funções, tipos e palavras-chave;
 - Suporte para realce de comentários importantes como TODO, FIXME e NOTE;
 - Alguns estilos distintos para erros, avisos e informações para facilitar a identificação rápida;
 - Diferenciação clara e visível entre variáveis locais, parâmetros e propriedades;
-- Suporte para múltiplas linguagens e sintaxes comuns;
+- Compatibilidade com múltiplas linguagens e sintaxes comuns.
 - Foco em acessibilidade com contraste adequado para melhor legibilidade sem comprometer sua leitura e escrita;
-
----
-
-## Capturas de tela
-
-![Pink Byte Theme - Inicio](img/Inicio.png) 
-*Esse explo mostra como o tema fica aplicado na tela de inicio do VScode*
-
-![Pink Byte Theme - JS](img/ExemploJs.png)
-*Esse exemplo mostra como o tema fica aplicado ao JavaScript.*
-
-![Pink Byte Theme - TS](img/ExemploTs.png)
-*Esse exemplo mostra como o tema fica aplicado ao TypeScript.*
-
-![Pink Byte Theme - Python](img/ExemploPy.png)
-*Esse exemplo mostra como o tema fica aplicado ao Python.*
-
-![Pink Byte Theme - HTML](img/ExemploHtml.png)
-*Esse exemplo mostra como o tema fica aplicado ao HTML.*
-
-![Pink Byte Theme - CSS](img/ExemploCss.png)
-*Esse exemplo mostra como o tema fica aplicado ao CSS.*
-
-![Pink Byte Theme - Extensões](img/ExemploAbaExtensões.png)
-*Esse exemplo mostra como o tema fica aplicado na aba de Extensões.*
 
 ---
 
 ## Instalação facilitada, siga os passos:
 
-### Método 1: Usando a extensão!
+### Método 1: Usando a extensão no VS code!
 
 1. Abra o Visual Studio Code.
 2. Vá para a aba Extensões (`Ctrl+Shift+X`).
@@ -58,8 +34,15 @@
 
 1. Baixe o arquivo `pink-byte-color-theme.json`.
 2. Instale a extensão **Import Theme** no VSCode.
-3. Use o comando `Import Theme` para importar o arquivo JSON.
+3. Use o comando `Import Theme` para importar o arquivo.
 4. Selecione o tema **Pink Byte** na lista de temas.
+
+### Método 3: Instalação manual (via VSIX)!
+
+1. Baixe o arquivo **.vsix** da extensão.
+2. Abra o VS Code e vá em **Extensões > ... > Instalar a partir de VSIX.**
+3. Localize o arquivo baixado e confirme a instalação.
+4. Ative o tema em **Arquivo > Preferências > Tema de Cores > Pink Byte.**
 
 ---
 
@@ -69,10 +52,10 @@
  O passo a passo para a sua contribuição esta logo aqui:
 
 1. Faça um fork deste repositório.
-2. Crie uma branch com sua feature: `git checkout -b minha-feature`.
-3. Faça commit das suas alterações: `git commit -m 'Minha melhoria'`.
-4. Envie para o repositório remoto: `git push origin minha-feature`.
-5. Abra um Pull Request.
+2. Crie uma branch com sua feature: **git checkout -b minha-feature**
+3. Faça commit das suas alterações: **git commit -m "Minha melhoria"**
+4. Envie para o repositório remoto: **git push origin minha-feature**
+5. Abra um Pull Request que irei retornar!!
 
 **ps: seu feedback é muito importante! :)** 
 
@@ -80,7 +63,7 @@
 
 ## Licença
 
-Este projeto foi desenvolvido por Maria Santos e está licenciado sob a licença MIT — veja o arquivo [Versão em português](LICENSE_PT.md) para detalhes.
+Este projeto foi desenvolvido por Maria Santos e está licenciado sob o MIT — veja o arquivo [Versão em português](LICENSE.md) para detalhes.
 
 ---
 

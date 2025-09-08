@@ -1,6 +1,6 @@
 {
   "name": "pink-byte",
-  "displayName": "pink-byte",
+  "displayName": "Pink Byte",
   "description": "Tons de rosa para programar com estilo sem perder a delicadeza!",
   "version": "0.3.1",
   "publisher": "mariahsantos",
@@ -11,12 +11,46 @@
     "Themes"
   ],
   "icon": "img/icon.png",
+  "galleryBanner": {
+    "color": "#FDECF8",
+    "theme": "light"
+  },
   "contributes": {
     "themes": [
       {
         "label": "Pink Byte",
         "uiTheme": "vs",
         "path": "./themes/PinkByte-color-theme.json"
+      }
+    ],
+    "previewImages": [
+      {
+        "path": "img/Inicio.png",
+        "title": "Pink Byte aplicado na tela inicial"
+      },
+      {
+        "path": "img/ExemploJs.png",
+        "title": "Pink Byte aplicado em JavaScript"
+      },
+      {
+        "path": "img/ExemploTs.png",
+        "title": "Pink Byte aplicado em TypeScript"
+      },
+      {
+        "path": "img/ExemploPy.png",
+        "title": "Pink Byte aplicado em Python"
+      },
+      {
+        "path": "img/ExemploHtml.png",
+        "title": "Pink Byte aplicado em HTML"
+      },
+      {
+        "path": "img/ExemploCss.png",
+        "title": "Pink Byte aplicado em CSS"
+      },
+      {
+        "path": "img/ExemploAbaExtensoes.png",
+        "title": "Pink Byte aplicado na aba de extensões"
       }
     ]
   },
@@ -25,3 +59,4 @@
     "url": "https://github.com/mari4hs/Pink-Byte-Theme-Color-VsCode."
   }
 }
+
