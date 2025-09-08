@@ -21,40 +21,27 @@
 
 ## Screenshots
 
-![Pink Byte Theme - Example 1](https://raw.githubusercontent.com/mari4hs/pink-byte/main/images/Inicio.png)  
-*Example showing the theme applied on the initial screen when VS Code opens.*
+![Pink Byte Theme - Start](images/Inicio.png)  
+*This example shows how the theme looks on the VSCode start screen.*
 
----
+![Pink Byte Theme - JS](images/ExemploJs.png)  
+*This example shows how the theme looks applied to JavaScript.*
 
-![Pink Byte Theme - Example 2](https://raw.githubusercontent.com/mari4hs/pink-byte/main/images/ExemploJs.png)  
-*Example showing the theme applied to JavaScript.*
+![Pink Byte Theme - TS](images/ExemploTs.png)  
+*This example shows how the theme looks applied to TypeScript.*
 
----
+![Pink Byte Theme - Python](images/ExemploPy.png)  
+*This example shows how the theme looks applied to Python.*
 
-![Pink Byte Theme - Example 3](https://raw.githubusercontent.com/mari4hs/pink-byte/main/images/ExemploTs.png)  
-*Example showing the theme applied to TypeScript.*
+![Pink Byte Theme - HTML](images/ExemploHtml.png)  
+*This example shows how the theme looks applied to HTML.*
 
----
+![Pink Byte Theme - CSS](images/ExemploCss.png)  
+*This example shows how the theme looks applied to CSS.*
 
-![Pink Byte Theme - Example 4](https://raw.githubusercontent.com/mari4hs/pink-byte/main/images/ExemploPy.png)  
-*Example showing the theme applied to Python.*
+![Pink Byte Theme - Extensions](images/ExemploAbaExtensoes.png)  
+*This example shows how the theme looks in the Extensions tab.*
 
----
-
-![Pink Byte Theme - Example 5](https://raw.githubusercontent.com/mari4hs/pink-byte/main/images/ExemploHtml.png)  
-*Example showing the theme applied to HTML.*
-
----
-
-![Pink Byte Theme - Example 6](https://raw.githubusercontent.com/mari4hs/pink-byte/main/images/ExemploCss.png)  
-*Example showing the theme applied to CSS.*
-
----
-
-![Pink Byte Theme - Example 7](https://raw.githubusercontent.com/mari4hs/pink-byte/main/images/ExemploAbaExtensoes.png)  
-*Example showing the theme applied in the Extensions tab (LIVE SERVER used for demonstration!).*
-
----
 ---
 
 ## Easy Installation, follow the steps:

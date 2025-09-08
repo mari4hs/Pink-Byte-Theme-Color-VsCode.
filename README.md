@@ -21,38 +21,26 @@
 
 ## Capturas de tela
 
-![Pink Byte Theme - Exemplo 1](https://raw.githubusercontent.com/mari4hs/pink-byte/main/images/Inicio.png)  
-*Esse exemplo mostra como o tema fica aplicado na tela inicial assim que o VS Code é aberto.*
+![Pink Byte Theme - Inicio](images/Inicio.png) 
+*Esse explo mostra como o tema fica aplicado na tela de inicio do VScode*
 
----
-
-![Pink Byte Theme - Exemplo 2](https://raw.githubusercontent.com/mari4hs/pink-byte/main/images/ExemploJs.png)  
+![Pink Byte Theme - JS](images/ExemploJs.png)
 *Esse exemplo mostra como o tema fica aplicado ao JavaScript.*
 
----
-
-![Pink Byte Theme - Exemplo 3](https://raw.githubusercontent.com/mari4hs/pink-byte/main/images/ExemploTs.png)  
+![Pink Byte Theme - TS](images/ExemploTs.png)
 *Esse exemplo mostra como o tema fica aplicado ao TypeScript.*
 
----
-
-![Pink Byte Theme - Exemplo 4](https://raw.githubusercontent.com/mari4hs/pink-byte/main/images/ExemploPy.png)  
+![Pink Byte Theme - Python](images/ExemploPy.png)
 *Esse exemplo mostra como o tema fica aplicado ao Python.*
 
----
-
-![Pink Byte Theme - Exemplo 5](https://raw.githubusercontent.com/mari4hs/pink-byte/main/images/ExemploHtml.png)  
+![Pink Byte Theme - HTML](images/ExemploHtml.png)
 *Esse exemplo mostra como o tema fica aplicado ao HTML.*
 
----
-
-![Pink Byte Theme - Exemplo 6](https://raw.githubusercontent.com/mari4hs/pink-byte/main/images/ExemploCss.png)  
+![Pink Byte Theme - CSS](images/ExemploCss.png)
 *Esse exemplo mostra como o tema fica aplicado ao CSS.*
 
----
-
-![Pink Byte Theme - Exemplo 7](https://raw.githubusercontent.com/mari4hs/pink-byte/main/images/ExemploAbaExtensoes.png)  
-*Esse exemplo mostra o tema aplicado na aba de Extensões (LIVE SERVER utilizado para demonstração!).*
+![Pink Byte Theme - Extensões](images/ExemploAbaExtensoes.png)
+*Esse exemplo mostra como o tema fica aplicado na aba de Extensões.*
 
 ---
 
