@@ -2,7 +2,7 @@
   "name": "pink-byte",
   "displayName": "pink-byte",
   "description": "Tons de rosa para programar com estilo sem perder a delicadeza!",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "mariahsantos",
   "engines": {
     "vscode": "^1.30.0"
